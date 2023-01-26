@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@bertagency/tsk-web-project",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Developer starter template for web projects.",
+  "homepage": "https://github.com/bertagency/tsk-webflow-utils/blob/master/README.md",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "Bert Agency",
+    "url": "https://www.bertagency.co.uk/"
   },
   "repository": {
     "type": "git",
